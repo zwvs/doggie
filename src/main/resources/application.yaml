@@ -1,0 +1,9 @@
+server:
+  port: 8999
+
+spring:
+  security:
+    user:
+      name: weiz
+      password: 1
+      roles: admin
