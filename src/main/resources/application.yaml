@@ -7,3 +7,10 @@ spring:
       name: weiz
       password: 1
       roles: admin
+
+git:
+  db:
+    username: zwvs
+    password: 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
+    cloneDir: /var/tmp/github/db
+    repoUrl: https://github.com/zwvs/db.git
