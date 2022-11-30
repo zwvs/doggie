@@ -1,0 +1,20 @@
+server:
+  port: 8999
+
+spring:
+  security:
+    user:
+      name: weiz
+      password: 1
+      roles: admin
+
+git:
+  db:
+    username: zwvs
+    password: test
+    cloneDir: /var/tmp/github/db/doggie
+    repoUrl: https://github.com/zwvs/db.git
+
+mail:
+  username: zwvs@163.com
+  password: test
